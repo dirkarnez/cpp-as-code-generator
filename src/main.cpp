@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-  // Create and open a text file
   ofstream MyFile("dist/filename.txt");
 
   // Write to the file
